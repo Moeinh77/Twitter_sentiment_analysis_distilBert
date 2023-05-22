@@ -1,0 +1,6 @@
+logs
+checkpoints
+.kaggle
+.ipynb_checkpoints
+kaggle.json
+*.zip
