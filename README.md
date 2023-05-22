@@ -1,3 +1,8 @@
+**A very short project description!**
+
+### Task:
+Sentiment analysis of a dataset of tweets using DistilBERT model.
+
 ### Dataset:
 The data is from Kaggle which can be foudn at this address:  https://www.kaggle.com/datasets/jp797498e/twitter-entity-sentiment-analysis
 
